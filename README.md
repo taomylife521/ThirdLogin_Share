@@ -1,9 +1,9 @@
 # ThirdLogin_Share
+
+
 微信,qq,新浪微博的分享与登录集成
 
-## 说明
-基于对[ShareLogin](https://github.com/lingochamp/ShareLoginLib)的修改，由于这个库引用了一些第三方库，但是我项目没有用到，所以把这些东西都去掉了，所以的异步请求等都交给调用者实现。
-
+此项目仅供参考，之前的代码很烂，有时间会进行重构。
 
 
 ##配置
